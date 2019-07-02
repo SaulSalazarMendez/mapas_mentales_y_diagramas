@@ -1,1 +1,2 @@
-# imagenes
+# 
+Se suben los mapas mentales
