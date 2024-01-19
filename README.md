@@ -1,2 +1,2 @@
 # 
-Se suben los mapas mentales
+Se suben los mapas mentales y diagramas
